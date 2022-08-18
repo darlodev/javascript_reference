@@ -14,3 +14,9 @@ var variableThree = 3;
 // 'var' is often found in legacy code
 variableThree = "three";
 // 'var' variables can have their value updated
+
+// DATA TYPES
+
+// CONCATENATION
+
+// INTERPOLATION
